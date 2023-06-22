@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cdauksas
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL and Tableau
 - 📫 How to reach me: dauksascasey@gmail.com
 
 <!---
